@@ -2,7 +2,7 @@
 
 **原圖**
 
-![原圖](./input.jpg.png)
+![原圖](<img width="318" height="343" alt="input jpg" src="https://github.com/user-attachments/assets/96e524e2-039c-4777-b6bc-4c9dc2a1ff1f" />)
 
 **AI 生成圖**
 
