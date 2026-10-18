@@ -2,15 +2,15 @@
 
 **原圖**
 
-![原圖](./input.jpg.png)
+![原圖](./input.jpg)
 
 **AI 生成圖**
 
-![生成圖](./output.jpg.png)
+![生成圖](./output.jpg)
 
 **完整工作流程圖**
 
-![工作圖](./workflow.jpg.png)
+![工作圖](./workflow.jpg)
 
 **提示詞**
 
