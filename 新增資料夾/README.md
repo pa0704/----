@@ -2,7 +2,7 @@
 
 **原圖**
 
-![原圖](./input.jpg)
+![原圖](./input.jpg.png)
 
 **AI 生成圖**
 
@@ -10,7 +10,7 @@
 
 **完整工作流程圖**
 
-![工作圖](./workflow.jpg)
+![工作圖](./workflow.jpg.png)
 
 **提示詞**
 
