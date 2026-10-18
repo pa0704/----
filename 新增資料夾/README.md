@@ -6,11 +6,11 @@
 
 **AI 生成圖**
 
-![生成圖](./output.jpg.png)
+<img width="251" height="318" alt="output jpg" src="https://github.com/user-attachments/assets/2ac888ce-465a-45c9-8423-37c56104cecc" />
 
 **完整工作流程圖**
 
-![工作圖](./workflow.jpg.png)
+<img width="962" height="567" alt="workflow jpg" src="https://github.com/user-attachments/assets/98f432d5-c116-4009-89c8-35d812f28b68" />
 
 **提示詞**
 
