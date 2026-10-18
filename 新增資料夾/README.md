@@ -6,7 +6,7 @@
 
 **AI 生成圖**
 
-![生成圖](./shutterstock_2649795961.jpg)
+![生成圖](./output.jpg.png)
 
 **完整工作流程圖**
 
